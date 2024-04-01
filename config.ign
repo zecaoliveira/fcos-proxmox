@@ -1,0 +1,20 @@
+{
+  "ignition": {
+    "version": "3.2.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "docker",
+          "wheel",
+          "sudo"
+        ],
+        "name": "sysadmx",
+        "sshAuthorizedKeys": [
+          "ecdsa-sha2-nistp521 AAAAE2VjZHNhLXNoYTItbmlzdHA1MjEAAAAIbmlzdHA1MjEAAACFBABi3Te0gkghptjf+42khhyb6/QnpZevqsL2EyYFt/951lGPMbKimzOH4f6tInuU4JdF9nbon5XUv6/27gteQmmTRQH8RX6shDV76kVVFJzyRsXrD0DzCxNihM3/aQ8UeiAFPUsp1KJWtD32VEqpUFSnrWQHOduEFoP2QTS+IeyaMnVixQ== joseoliveira@it-lld-jcboj01"
+        ]
+      }
+    ]
+  }
+}
